@@ -1,0 +1,25 @@
+{
+  "name": "reddit-btn",
+  "version": "1.0.0",
+  "description": "Console Monitoring for The Mighty Button (from Reddit)",
+  "author": "CaBz",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaBz/the-button"
+  },
+  "bugs": {
+    "url": "https://github.com/CaBz/the-button/issues"
+  },
+  "keywords": [
+    "reddit",
+    "the button"
+  ],
+  "dependencies": {
+    "hiredis": "^0.3.0",
+    "redis": "^0.12.1",
+    "moment": "^2.10.2",
+    "request": "^2.55.0",
+    "ws": "^0.7.1"
+  }
+}
