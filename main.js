@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Manager = require('./lib/manager');
 
 
