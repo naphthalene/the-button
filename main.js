@@ -2,7 +2,7 @@ var Manager = require('./lib/manager');
 
 
 var options = {
-	save_data: false,
+	save_data: true,
 	load_data: true
 };
 
