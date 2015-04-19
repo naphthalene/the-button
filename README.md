@@ -7,4 +7,6 @@ It's a node.js application ready to be used as-is with redis (local server):
 
 Redis usage is only to store clicks and lowest second recorded. If you don't want to use this feature, make sure to disable the options to save and load (from the main.js).
 
+Also, this application was conceived with the fact that you have at least a height of 63 lines showing in the console. If you want less (or more), just edit lib/Manager.js -> constants.TOTAL_ROWS
+
 Enjoy.
