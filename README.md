@@ -12,4 +12,8 @@ Redis usage is only to store clicks and lowest second recorded. If you don't wan
 
 Also, this application was conceived with the fact that you have at least a height of 63 lines showing in the console. If you want less (or more), just edit lib/Manager.js -> constants.TOTAL_ROWS
 
+Your console should show something like this:
+
+![Example Console Output](http://i.imgur.com/PE9poXL.png)
+
 Enjoy.
